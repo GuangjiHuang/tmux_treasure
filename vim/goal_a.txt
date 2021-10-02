@@ -1,0 +1,11 @@
+1. Goal: read the documentation of the :help autocmd and the augroup.
+
+-> progress:
+
+-> tasks:
+
+-> actions:
+
+-> questions:
+
+-> get:
