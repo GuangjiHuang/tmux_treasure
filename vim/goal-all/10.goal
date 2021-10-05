@@ -1,12 +1,21 @@
-10. Goal: figure out how to show the space, tab, newline and others blank character in the vim!
-*. Goal: xxx
+10. Goal: figure out the representation of the ex command's range of the lines.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

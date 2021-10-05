@@ -1,12 +1,21 @@
-7. Goal: How to copy, delete the select pattern in the vim.
-*. Goal: xxx
+7. Goal: figure out how the vim insert the another file to this file.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

@@ -1,12 +1,21 @@
-5. Goal: How to insert the another line and don't leave the cursor's position.
-*. Goal: xxx
+5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

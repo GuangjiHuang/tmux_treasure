@@ -1,12 +1,21 @@
-9. Goal: when make the table, how to write the right border quickly.
-*. Goal: xxx
+9. Goal: figure out how to show the space, tab, newline and others blank character in the vim!
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

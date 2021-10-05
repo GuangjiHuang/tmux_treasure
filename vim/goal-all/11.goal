@@ -1,12 +1,21 @@
-11. Goal: figure out the representation of the ex command's range of the lines.
-*. Goal: xxx
+11. Goal: figure out how to execute the marco command paralledly.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>t
+-> actions: 0
+<<t
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

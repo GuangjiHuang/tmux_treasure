@@ -1,31 +1,22 @@
-2. Goal: Although I don't know what it is, this is the first goal of the vim.
+1. Goal: add the goal for the vim/bash/English/paper. 
 
 >>p
 -> progress: (0/10)
 <<p
 
 >>t
--> tasks:
-(1) task 1 is to read the document;
-(2) task 2 is write the code;
-(3) task 3 is ....;
+-> tasks: 0
+(1) the command<love you> add one line after the Today Goal, [ Current Goal: x ]
 <<t
 
 >>a
--> actions: 
-(1) 2021-10-02 18:52:28
-->: read the document;
-(2) 2021-10-02 18:53:11
+-> actions: 0
 <<a
 
 >>q
--> questions:
-(1) why is that?
-(2) how to do that?
+-> questions: 0
 <<q
 
 >>c
--> conclusion:
-(1) the usage of the ...
-(2) that is ....
->>c
+-> conclusion: 0
+<<c

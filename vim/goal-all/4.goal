@@ -1,12 +1,21 @@
-4. Goal: figure out the keyboard value of the vim! How to represent a key? Ctrl, alt, ...
-*. Goal: xxx
+4. Goal: How to insert the another line and don't leave the cursor's position.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

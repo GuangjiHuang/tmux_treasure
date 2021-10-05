@@ -1,12 +1,21 @@
-3. Goal: figure out the difference between the "let" and the "set". Make clear the option and the variable. How to get the value of the option and the variable!
-*. Goal: xxx
+3. Goal: figure out the difference between the "let" and the "set". Make clear the option and the variable. How to get the value of the option and the variable!
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 0
+<<t
 
--> actions:
+>>a
+-> actions: 0
+<<a
 
--> questions:
+>>q
+-> questions: 0
+<<q
 
--> conclusion:
+>>c
+-> conclusion: 0
+<<c

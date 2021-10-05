@@ -1,12 +1,61 @@
-3. Goal: figure out the difference between the "let" and the "set". Make clear the option and the variable. How to get the value of the option and the variable!
-*. Goal: xxx
+3. Goal: improve the tmux-manager.sh.
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
--> tasks:
+>>t
+-> tasks: 13
+(1) for the progress, modify the code, to add the progress number that has been finished, and then 
+change the progress bar.
 
--> actions:
+(2) change the code, when run <* gs a> show all goal, renew the goal-list! What's more the <n, y, and others>
 
--> questions:
+(3) think of the way to deal the today's goal index, and show it in the <love you> command!
 
--> conclusion:
+(✓) (4) add the newline between each line.
+(5) fix the bug that if you want to add the action/task/..., you type the command, but you use the 
+<ctr +c>, you want to cancel, the number of them add 1!
+
+(6) the command<love you> add one line after the Today Goal, [ Current Goal: x ]
+
+(7) add the 0 after the action/task/... in the mode's x.index. 
+
+(✓) (8) some bug occure when run the command < * aa+ goal_index >, try to fix the bug, maybe the anchore 10:31:06 occure in the other place, will be replaced
+
+(9) achieve use the <love vim c++ ...> to open more than one task!
+
+(10) improve the <love you> command, to show the goal and the progress below the Tips underline
+
+(✓) (11) change the code, when the command is the <*> or <love action>, output the status, as the reference.
+
+(12) use the alias @ to represent the command <love you>, @ to get more information.
+
+(13) fix the bug that if there is no index, that the status show exception
+
+<<t
+
+>>a
+-> actions: 3
+(1) 2021/10/05 09:08:23 - 09:51:28
+-> deal with the task (4).
+
+(2) 2021/10/05 09:26:58 - 10:47:22
+-> deal the task (3), try to manager the goal_index of the today
+
+(3) 2021/10/05 10:49:05 - xxx
+-> deal the task (10).
+
+<<a
+
+>>q
+-> questions: 1
+(1) how to append the newline to the file, using the echo, sed, why fail when using the "n". < try to make a test >
+
+<<q
+
+>>c
+-> conclusion: 2
+(1) for the question reference to the blog, http://www.wallcopper.com/linux/3453.html
+
+<<c

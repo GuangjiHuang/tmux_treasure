@@ -1,11 +1,21 @@
-2. Goal: Goal figure out the read command, see the document :help read. And use that to insert the content.
+2. Goal: test the tmux-manager, including the show goals, create goal, action/task/quesion/conclusion show or editing!
 
--> progress:
+>>p
+-> progress: (0/10)
+<<p
 
+>>t
 -> tasks:
+<<t
 
+>>a
 -> actions:
+<<a
 
+>>q
 -> questions:
+<<q
 
+>>c
 -> conclusion:
+<<c
