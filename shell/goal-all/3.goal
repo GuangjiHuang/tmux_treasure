@@ -1,11 +1,11 @@
 3. Goal: improve the tmux-manager.sh.
 
 >>p
--> progress: (0/10)
+-> progress: (5/10)
 <<p
 
 >>t
--> tasks: 13
+-> tasks: 16
 (1) for the progress, modify the code, to add the progress number that has been finished, and then 
 change the progress bar.
 
@@ -17,45 +17,82 @@ change the progress bar.
 (5) fix the bug that if you want to add the action/task/..., you type the command, but you use the 
 <ctr +c>, you want to cancel, the number of them add 1!
 
-(6) the command<love you> add one line after the Today Goal, [ Current Goal: x ]
+(✓) (6) the command<love you> add one line after the Today Goal, [ Current Goal: x ]
 
 (7) add the 0 after the action/task/... in the mode's x.index. 
 
 (✓) (8) some bug occure when run the command < * aa+ goal_index >, try to fix the bug, maybe the anchore 10:31:06 occure in the other place, will be replaced
 
-(9) achieve use the <love vim c++ ...> to open more than one task!
+(✓) (9) achieve use the <love vim c++ ...> to open more than one task!
 
-(10) improve the <love you> command, to show the goal and the progress below the Tips underline
+(✓) (10) improve the <love you> command, to show the goal and the progress below the Tips underline
 
 (✓) (11) change the code, when the command is the <*> or <love action>, output the status, as the reference.
 
-(12) use the alias @ to represent the command <love you>, @ to get more information.
+(✓) (12) use the alias @ to represent the command <love you>, @ to get more information.
 
 (13) fix the bug that if there is no index, that the status show exception
+
+(✓) (14) change the code, to add the material directory to store the goal's data, includeing the record
+the code, the image and the ohter thing. that is very important thing.
+
+(✓) (15) add the function to scan all the mode's goal, and then conclus them in a list.
+
+(✓) (16) all the cat command in the code, that add the 2>/dev/null to avoid to show the error in the screen!
 
 <<t
 
 >>a
--> actions: 3
+-> actions: 10
 (1) 2021/10/05 09:08:23 - 09:51:28
 -> deal with the task (4).
 
 (2) 2021/10/05 09:26:58 - 10:47:22
 -> deal the task (3), try to manager the goal_index of the today
 
-(3) 2021/10/05 10:49:05 - xxx
+(3) 2021/10/05 10:49:05 - 15:35:15
 -> deal the task (10).
+
+(4) 2021/10/06 14:30:27 - 15:35:15
+finsish the task of the (16)
+
+(5) 2021/10/07 10:16:52 - 10:56:03
+-> finish the task 15, add the note.
+
+(6) 2021/10/07 11:02:01 - 13:39:32
+finish the task 9, open the multiply mode, use the more as the mark
+
+(7) 2021/10/07 13:53:23 - 14:24:48
+finish the task 10. add the goal under the love you
+
+(8) 2021/10/07 19:14:23 - 19:19:17
+finish the task 16
+
+(9) 2021/10/07 19:21:56 - 20:01:33
+for the task 10, add the progress, using the format x.[x/y]
+
+(10) 2021/10/07 20:38:54 - 20:42:55
+add the action below the <love you>'s today goal
 
 <<a
 
 >>q
--> questions: 1
+-> questions: 3
 (1) how to append the newline to the file, using the echo, sed, why fail when using the "n". < try to make a test >
 
+(2) how to represent the argument's number? $#?. in the c++ is the int argc.
+
+(3) how to put the shell's arguments to the array, and then loop to show it?
+
+(4) the sed 's replace command, if there are the / inside the replace, how to do? 
+
+(5) it will return what, when the sed command found nothing! or do not match!
 <<q
 
 >>c
 -> conclusion: 2
 (1) for the question reference to the blog, http://www.wallcopper.com/linux/3453.html
+
+(2) pay attention to the sed's replace, the /// if there are the / character in the ///, it must be use the as the escape character.
 
 <<c

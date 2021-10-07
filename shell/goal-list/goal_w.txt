@@ -1,7 +1,1 @@
 
-1. Goal: add the goal for the vim/bash/English/paper. 
-
-2. Goal: test the tmux-manager, including the show goals, create goal, action/task/quesion/conclusion show or editing!
-
-3. Goal: improve the tmux-manager.sh.
-

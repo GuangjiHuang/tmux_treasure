@@ -5,17 +5,17 @@
 <<p
 
 >>t
--> tasks:
+-> tasks: 0
 <<t
 
 >>a
--> actions:
+-> actions: 0
 <<a
 
 >>q
--> questions:
+-> questions: 0
 <<q
 
 >>c
--> conclusion:
+-> conclusion: 0
 <<c

@@ -9,3 +9,5 @@
 
 5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
 
+6. Goal: configurate the frp between the pc and the station!
+
