@@ -1,0 +1,33 @@
+1. Goal: something chore!: 1) shopping: yagao, jiujing, ximiannai; 2) xibeizi; 3)tushu guan huanshu.
+
+>>p
+-> progress: (7/10)
+<<p
+
+>>t
+-> tasks: 3
+(✓) (1) buy the yagao, ximiannai, jiujing
+
+(✓) (2) huanshu
+
+(3) xibeizi
+
+<<t
+
+>>a
+-> actions: 2
+(1) 2021/10/07 16:55:26 - 17:11:30
+-> buy the jiujing, ximiannai!
+
+(2) 2021/10/07 18:04:32 - 19:03:44
+go to the library to return the books!
+
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

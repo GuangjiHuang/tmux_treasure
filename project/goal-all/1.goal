@@ -1,0 +1,27 @@
+1. Goal: mark the data set again, use the other way to do that, the new data set!
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 3
+(1) 首先将图线从视频中截取出来，使用python写一个程序，隔n帧截取一个图像；
+
+(2) then mark the image, to get the data;
+
+(3) then train the module again, to test it to  get the result.
+
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

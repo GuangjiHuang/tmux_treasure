@@ -1,0 +1,74 @@
+========== ALL GOAL (renew time: 2021/10/07 14:42:14)==========
+--------------------> c++ <--------------------
+#{{{
+
+#}}}
+--------------------> chore <--------------------
+#{{{
+
+1. Goal: something chore!: 1) shopping: yagao, jiujing, ximiannai; 2) xibeizi; 3)tushu guan huanshu.
+
+#}}}
+--------------------> paper <--------------------
+#{{{
+
+1. Goal: finish the thesis proposal!
+
+#}}}
+--------------------> project <--------------------
+#{{{
+
+1. Goal: mark the data set again, use the other way to do that, the new data set!
+
+2. Goal: 搭好代码运行的环境，将代码跑起来。
+
+3. Goal: review the 形态学处理的相关知识，在python和c++编程语言下进行实现。 
+
+4. Goal: test the image of the elevator about the 平均背景法和帧间差分法，reference to the wuqichao's paper, page 29.
+
+5. Goal: understand the 高斯混合模型的原理，并且使用代码实现看一下具体的效果如何。reference to the
+<https://zhuanlan.zhihu.com/p/30483076>
+
+#}}}
+--------------------> python <--------------------
+#{{{
+
+#}}}
+--------------------> shell <--------------------
+#{{{
+
+1. Goal: add the goal for the vim/bash/English/paper. 
+
+2. Goal: test the tmux-manager, including the show goals, create goal, action/task/quesion/conclusion show or editing!
+
+3. Goal: improve the tmux-manager.sh.
+
+4. Goal: make deep understanding to the IFS of the shell.
+
+5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
+
+#}}}
+--------------------> vim <--------------------
+#{{{
+
+1. Goal: figure out the keyboard value of the vim! How to represent a key? Ctrl, alt, ...
+
+2. Goal: figure out the read command, see the document :help read. And use that to insert the content.
+
+3. Goal: figure out the difference between the "let" and the "set". Make clear the option and the variable. How to get the value of the option and the variable!
+
+4. Goal: How to insert the another line and don't leave the cursor's position.
+
+5. Goal: exchange the two words. this is.
+
+6. Goal: How to copy, delete the select pattern in the vim.
+
+7. Goal: figure out how the vim insert the another file to this file.
+
+8. Goal: when make the table, how to write the right border quickly.
+
+9. Goal: figure out how to show the space, tab, newline and others blank character in the vim!
+
+10. Goal: figure out the representation of the ex command's range of the lines.
+
+#}}}

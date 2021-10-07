@@ -1,0 +1,42 @@
+1. Goal: finish the thesis proposal!
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 2
+(1) read the paper, and then learn what to do!
+
+(2) writ the your own thesis proposal, then copy something you need!
+
+<<t
+
+>>a
+-> actions: 3
+(1) 2021/10/06 08:54:00 - 09:40:19
+-> read the huagligunag's paper! finish the chapter 2.
+
+(2) 2021/10/06 09:59:32 - 15:55:51
+-> read the chapter 3 of the huangliguang's paper, then copy something you have read!
+
+(3) 2021/10/06 16:00:02 - xxx
+-> 完成开题报告的部分的论文。
+
+<<a
+
+>>q
+-> questions: 4
+(1) what is the surendra背景更新法？Read the formula to get the idea!, see the wuqichao paper, page 29.
+
+(2) how to quickly copy the adress of the website, when you tab to the explorer.
+
+(3) word 中怎样取消自动加括号，“，‘ 等等。
+
+(4) how the sogo input cancel the auto buquan brace, set it!
+
+<<q
+
+>>c
+-> conclusion: 0
+<<c

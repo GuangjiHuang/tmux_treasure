@@ -1,0 +1,40 @@
+==================================
+2021-10-06 Wed 08:41:58
+==================================
+1. the temp: is that!
+--------------------------------------------------------------------------------
+the elevator monitor:
+-> the monitor task: four(4 aspect);
+-> the zones: 楼层板，楼梯本身。
+--------------------------------------------------------------------------------
+1. information 1
+->four 检测任务 <-
+楼层板上：(1)逆行检测，客流量，拥堵检测。 (目标跟踪和目标检测)
+(3) oject滞留检测。
+
+楼梯上：(2)有没有人的检测
+（4）扶手带上的异常行为检测
+
+2. information 2
+-> the camera position
+camera 1: vertical, responsibal to the passenerges
+camera 2，3 左右扶手带的检测。
+
+3. information 3
+-》 the program achievement information:
+use the thread to deal with the camera:
+-> 5 threads；
+（1） thread 1 -》客流量统计，乘客逆行，拥堵，滞留检测，大件物体检测。<camera 1>
+（2） thread 2 -> 手扶电梯上的人体骨架的提取，然后检测异常行为。 < camera 2>
+（3） thread 3 -》异物伸出的检测；《camera 3》
+（4） thread 4 -》有扶手带的异物伸出检测。《camera 4》
+（5） thread 5 -》the connection to the elevator controller. to control the ...
+*** the data set:
+-> TVH2020 ( top view head 2020)
+-> SBR2020 ( Skeleton Behavior Recoginition 2020)
+--------------------------------------------------------------------------------
+the charpter 3: recognition;
+the charpter 4: track;
+the charpter 5: the sketlon acquire
+--------------------------------------------------------------------------------
+

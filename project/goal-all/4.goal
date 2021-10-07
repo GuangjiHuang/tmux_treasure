@@ -1,0 +1,27 @@
+4. Goal: test the image of the elevator about the 平均背景法和帧间差分法，reference to the wuqichao's paper, page 29.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 3
+(1) find the article to see the theory.
+
+(2) use the c++ & python to achieve the code to see the result!
+
+(3) find the responding function in the opencv library! or you can write the function yourself!
+
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

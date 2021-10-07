@@ -1,0 +1,26 @@
+6. Goal: figure out the: hog/harr/lsp + adboost/svm to achieve the object detection of the project!
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 3
+(1) understand the theory of the harr and the hog and the lsp feature;
+
+(2) understand the theory of the svm and the adboost;
+
+(3) write the code to achieve them!
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c
