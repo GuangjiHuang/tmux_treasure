@@ -1,3 +1,11 @@
 
 1. Goal: mark the data set again, use the other way to do that, the new data set!
 
+3. Goal: review the 形态学处理的相关知识，在python和c++编程语言下进行实现。 
+
+3. Goal: review the 形态学处理的相关知识，在python和c++编程语言下进行实现。 
+
+2. Goal: 搭好代码运行的环境，将代码跑起来。
+
+3. Goal: review the 形态学处理的相关知识，在python和c++编程语言下进行实现。 
+

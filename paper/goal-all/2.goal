@@ -1,0 +1,36 @@
+2. Goal: read, modify the paper:<video monitoring method for floor board of walking elevator>
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 2
+(1) try to write a program to achieve the fixed aspect ratio scale. May use the padding!
+
+(2) you may learn the kNN's theory and then use the code to achieve it!
+
+<<t
+
+>>a
+-> actions: 1
+(1) 2021/10/08 10:53:33 - xxx
+read the paper!
+
+<<a
+
+>>q
+-> questions: 4
+(1) What is the codebook model?
+
+(2) The difference between the "serious" and the "sever".
+
+(3) what happens the source iamge -> the network input image?
+
+(4) how to use the KNN to the image deal, what is the thought?
+
+<<q
+
+>>c
+-> conclusion: 0
+<<c

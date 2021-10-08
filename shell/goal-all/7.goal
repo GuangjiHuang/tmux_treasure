@@ -1,0 +1,30 @@
+7. Goal: figure out the difference betweent the interactive shell and the none interactive shell! Why the none interactive shell can not use the alias you set?
+
+>>p
+-> progress: (5/10)
+<<p
+
+>>t
+-> tasks: 4
+(1) figure out the difference between the interactive bash and the none interactive bash
+
+(2) the difference between the source/. + *.sh and the sh *.sh and the ./*sh
+
+(3) figure out how to use the alias inside the *.sh
+
+(4) log in as the log in shell, add the --login, test this
+
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 1
+(1) reference to the blog: <https://blog.csdn.net/qq_33709508/article/details/101822329>
+<<c

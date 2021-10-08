@@ -11,3 +11,5 @@
 
 6. Goal: configurate the frp between the pc and the station!
 
+7. Goal: figure out the difference betweent the interactive shell and the none interactive shell! Why the none interactive shell can not use the alias you set?
+

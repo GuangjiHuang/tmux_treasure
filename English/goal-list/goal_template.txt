@@ -1,7 +1,7 @@
-1. Goal: add the goal for the vim/bash/English/paper. 
+*. Goal: xxx
 
 >>p
--> progress: (10/10)
+-> progress: (0/10)
 <<p
 
 >>t

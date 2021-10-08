@@ -1,1 +1,3 @@
 
+1. Goal: porting the exercise python project to the love command script!
+

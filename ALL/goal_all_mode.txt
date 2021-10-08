@@ -1,4 +1,4 @@
-========== ALL GOAL (renew time: 2021/10/07 14:42:14)==========
+========== ALL GOAL (renew time: 2021/10/07 20:56:33)==========
 --------------------> c++ <--------------------
 #{{{
 
@@ -46,6 +46,14 @@
 4. Goal: make deep understanding to the IFS of the shell.
 
 5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
+
+6. Goal: configurate the frp between the pc and the station!
+
+#}}}
+--------------------> tmux <--------------------
+#{{{
+
+1. Goal: master the tmux, all!
 
 #}}}
 --------------------> vim <--------------------

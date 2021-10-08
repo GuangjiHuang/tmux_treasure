@@ -1,37 +1,37 @@
 3. Goal: improve the tmux-manager.sh.
 
 >>p
--> progress: (5/10)
+-> progress: (6/10)
 <<p
 
 >>t
--> tasks: 16
-(1) for the progress, modify the code, to add the progress number that has been finished, and then 
+-> tasks: 18
+(1) for the progress, modify the code, to add the progress number that has been finished, and then 
 change the progress bar.
 
-(2) change the code, when run <* gs a> show all goal, renew the goal-list! What's more the <n, y, and others>
+(2) change the code, when run <* gs a> show all goal, renew the goal-list! What's more the <n, y, and others>
 
-(3) think of the way to deal the today's goal index, and show it in the <love you> command!
+(3) think of the way to deal the today's goal index, and show it in the <love you> command!
 
 (✓) (4) add the newline between each line.
-(5) fix the bug that if you want to add the action/task/..., you type the command, but you use the 
+(5) fix the bug that if you want to add the action/task/..., you type the command, but you use the 
 <ctr +c>, you want to cancel, the number of them add 1!
 
 (✓) (6) the command<love you> add one line after the Today Goal, [ Current Goal: x ]
 
-(7) add the 0 after the action/task/... in the mode's x.index. 
+(7) add the 0 after the action/task/... in the mode's x.index. 
 
 (✓) (8) some bug occure when run the command < * aa+ goal_index >, try to fix the bug, maybe the anchore 10:31:06 occure in the other place, will be replaced
 
 (✓) (9) achieve use the <love vim c++ ...> to open more than one task!
 
-(✓) (10) improve the <love you> command, to show the goal and the progress below the Tips underline
+(✓) (10) improve the <love you> command, to show the goal and the progress below the Tips underline
 
 (✓) (11) change the code, when the command is the <*> or <love action>, output the status, as the reference.
 
 (✓) (12) use the alias @ to represent the command <love you>, @ to get more information.
 
-(13) fix the bug that if there is no index, that the status show exception
+(13) fix the bug that if there is no index, that the status show exception
 
 (✓) (14) change the code, to add the material directory to store the goal's data, includeing the record
 the code, the image and the ohter thing. that is very important thing.
@@ -40,10 +40,14 @@ the code, the image and the ohter thing. that is very important thing.
 
 (✓) (16) all the cat command in the code, that add the 2>/dev/null to avoid to show the error in the screen!
 
+(✓) (17) port the code to the linux to see what happen? and what is wrong with it? scut_M5000 (ok, reason: the tmux_c++ is the wrong var name!)
+
+(✓) (18) add the English part, and then finisht it! Give you 20 minutes!< why take so long time? 20 minutes! reason: spell, pay attention to the spell acuracy>
+
 <<t
 
 >>a
--> actions: 10
+-> actions: 12
 (1) 2021/10/05 09:08:23 - 09:51:28
 -> deal with the task (4).
 
@@ -74,6 +78,12 @@ for the task 10, add the progress, using the format x.[x/y]
 (10) 2021/10/07 20:38:54 - 20:42:55
 add the action below the <love you>'s today goal
 
+(11) 2021/10/08 09:04:03 - 09:28:37
+finish the task 17. give to 12 minutes. < not find the cause?>
+
+(12) 2021/10/08 14:12:47 - 14:33:43
+add the English part, and then finish it!
+
 <<a
 
 >>q
@@ -90,9 +100,14 @@ add the action below the <love you>'s today goal
 <<q
 
 >>c
--> conclusion: 2
+-> conclusion: 4
 (1) for the question reference to the blog, http://www.wallcopper.com/linux/3453.html
 
 (2) pay attention to the sed's replace, the /// if there are the / character in the ///, it must be use the as the escape character.
+
+(3) if you want to change the dirctory to the more than one hierarchy dirs, bettet to use the cd /09:28:37/09:28:37, instead of 
+ use the cd /09:28:37; cd /09:28:37!
+
+(4) make a big mistake that the "tmux_c++" can not be the variable name!
 
 <<c
