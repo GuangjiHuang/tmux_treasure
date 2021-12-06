@@ -1,0 +1,31 @@
+7. Goal: learn how to use the coco data, try to test and then see the data! Let us go. Give you just one hour!
+
+>>p
+-> progress: (8/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 3
+(1) 2021/11/29 14:48:29 - xxx
+give you about 30 minutes to learn how to use the conda jupyter.
+
+(2) 2021/11/29 15:10:05 - xxx
+find the way that the jupyter use the vim as the editor!
+
+<<a
+
+>>q
+-> questions: 2
+(1) how to use jupther in the conda? Because that is very important thing!
+
+(2) What is the function of the python's setup.py? And the commmand: python setup.py install?
+
+<<q
+
+>>c
+-> conclusion: 0
+<<c

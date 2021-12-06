@@ -19,3 +19,33 @@
 
 10. Goal: figure out the representation of the ex command's range of the lines.
 
+11. Goal: figure out how to execute the marco command paralledly.
+
+12. Goal: make clear and then undersand that what will happend when you type the * inside the word, where to jum and how to return back to the original position! make the test! Don not confuse!
+
+14. Goal: the built-in function: findfile to find the file you want!
+
+15. Goal: make clear the grep in the vim, see the document first and then use the grep in the vim ex command! 
+
+16. Goal: make clear the keycode, you can :help keycode, and the difference between the terminal key code.
+
+17. Goal: the use of the :| to separate the vim's command, you can help :bar or the help |.
+
+18. Goal: try to use the _ and the - as the local leader.
+
+19. Goal: how to undersand the vim's path option, how to separate each path of it. The function of these path, try to use them.
+
+20. Goal: learn how to assign the comand's ouptut to the variable. just lile the shell's $(command); use the command: redir to achieve;
+
+21. Goal: xxx
+
+22. Goal: solve the problem that not include the = in the command "gf", how to get ride of this character.
+
+23. Goal: learn the vimdiff command, and that can use this command to compare the difference of the two files.
+
+24. Goal: try to achieve the function that, when you inside the function, quickly jump to the function name. Try to read the documentation about the function search. 
+
+25. Goal: use the :help function-list to see the vim's built-in functions list, that is all the function that you can see!
+
+26. Goal: try to use the _ and the - as the leader of the command, for example, -l/_l -> :ls; -m/_m :marks;
+

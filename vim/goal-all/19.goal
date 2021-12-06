@@ -1,0 +1,21 @@
+19. Goal: how to undersand the vim's path option, how to separate each path of it. The function of these path, try to use them.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

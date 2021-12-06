@@ -1,3 +1,7 @@
 
 1. Goal: porting the exercise python project to the love command script!
 
+2. Goal: see the map funciton documentation; and the others! Compare it with the vim script's map function. And see the c++'s map function.
+
+3. Goal: the use the zip and the dereference the zip, and the started assignment.
+

@@ -1,0 +1,24 @@
+13. Goal: to slove the confict that when you open the CMakeLists.txt, the ft is the fmtxt. change the .vimrc.
+
+>>p
+-> progress: (10/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+(1) that is very easy, you just need to filer the files that is ok. use the command:
+au BufRead,BufNewFile *.goal,[^C]*.txt,*.ddl set ft=txtfmt
+
+<<c

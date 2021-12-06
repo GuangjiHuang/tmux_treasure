@@ -1,4 +1,4 @@
-========== ALL GOAL (renew time: 2021/10/07 20:56:33)==========
+========== ALL GOAL (renew time: 2021/10/09 14:49:39)==========
 --------------------> c++ <--------------------
 #{{{
 
@@ -9,10 +9,26 @@
 1. Goal: something chore!: 1) shopping: yagao, jiujing, ximiannai; 2) xibeizi; 3)tushu guan huanshu.
 
 #}}}
+--------------------> cmake <--------------------
+#{{{
+
+1. Goal: read the document to understand the some xx_PATH, such as the module_find_path, module_prefix_path, and so on! What is more, read the documentation of the find_package!
+
+2. Goal: make the conclusion of the camke's [find_package(), find_program(), find_library(), find_file(), and the find_path()] what is the difference between them!
+
+3. Goal: make the conclusion of the soem path:[CMAKE_SYSTEM_PREFIX_PATH, cmake_include_path, cmake_library_path, cmake_program_path, cmake_ignore_path] and so on!
+
+#}}}
+--------------------> English <--------------------
+#{{{
+
+#}}}
 --------------------> paper <--------------------
 #{{{
 
 1. Goal: finish the thesis proposal!
+
+2. Goal: read, modify the paper:<video monitoring method for floor board of walking elevator>
 
 #}}}
 --------------------> project <--------------------
@@ -33,6 +49,8 @@
 --------------------> python <--------------------
 #{{{
 
+1. Goal: porting the exercise python project to the love command script!
+
 #}}}
 --------------------> shell <--------------------
 #{{{
@@ -48,6 +66,10 @@
 5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
 
 6. Goal: configurate the frp between the pc and the station!
+
+7. Goal: figure out the difference betweent the interactive shell and the none interactive shell! Why the none interactive shell can not use the alias you set?
+
+8. Goal: renew the path script that changing the case matching to match more path!
 
 #}}}
 --------------------> tmux <--------------------
@@ -78,5 +100,11 @@
 9. Goal: figure out how to show the space, tab, newline and others blank character in the vim!
 
 10. Goal: figure out the representation of the ex command's range of the lines.
+
+11. Goal: figure out how to execute the marco command paralledly.
+
+12. Goal: make clear and then undersand that what will happend when you type the * inside the word, where to jum and how to return back to the original position! make the test! Don not confuse!
+
+13. Goal: to slove the confict that when you open the CMakeLists.txt, the ft is the fmtxt. change the .vimrc.
 
 #}}}

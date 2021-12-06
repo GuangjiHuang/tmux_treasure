@@ -5,7 +5,7 @@
 <<p
 
 >>t
--> tasks: 18
+-> tasks: 19
 (1) for the progress, modify the code, to add the progress number that has been finished, and then 
 change the progress bar.
 
@@ -44,10 +44,12 @@ the code, the image and the ohter thing. that is very important thing.
 
 (✓) (18) add the English part, and then finisht it! Give you 20 minutes!< why take so long time? 20 minutes! reason: spell, pay attention to the spell acuracy>
 
+(✓) (19) add the new mode: cmake; give you 5 minus! [that is ok!]
+
 <<t
 
 >>a
--> actions: 12
+-> actions: 14
 (1) 2021/10/05 09:08:23 - 09:51:28
 -> deal with the task (4).
 
@@ -83,6 +85,12 @@ finish the task 17. give to 12 minutes. < not find the cause?>
 
 (12) 2021/10/08 14:12:47 - 14:33:43
 add the English part, and then finish it!
+
+(13) 2021/10/09 08:40:49 - 08:43:25
+finish the task 20.
+
+(14) 2021/10/09 08:45:38 - 08:52:48
+fix the bug that <love cmake> but show the "tmux" mode!
 
 <<a
 

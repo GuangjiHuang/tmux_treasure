@@ -1,1 +1,61 @@
 
+1. Goal: learn how to use the lambda function in the c++;
+
+2. Goal: learn the smart pointer in the c++;
+
+3. Goal: learn and test the assert function or the macro in the c++.
+
+4. Goal: make clear the param keyword of the preprocessor.
+
+5. Goal: the function should be understood: format, CV_Assert, 
+
+6. Goal: the static keyword inside the c++'s class? What is the function of it! How to use?
+
+7. Goal: the data cast: static cast, const cast, ...
+
+8. Goal: the difference between the malloc and the xmalloc.
+
+9. Goal: test the str_c() and the strtok() funciton of the string.h? and the function strlen();
+
+10. Goal: the file deal and test the fucntion: fopen, fgetl, strip
+
+11. Goal: how to use the enum type of it? And ....
+
+12. Goal: make clear that the initializer_list class. The new feature of the c++11.
+
+13. Goal: make clear to the iterator of the c++? the begin and the end? What is more?
+
+14. Goal: in the c, how to the make the number char to the char. for example 1 => '1'
+
+15. Goal: c++ how to call the system command, such as the mkdir, rm, cp, ls, ll and so on. Pay attention to the #include<sys/stat.h>, look here!
+
+16. Goal: test the function: std::stoi, and the std::stol....., that is in the string, to the numeric.
+
+17. Goal: review the ifstream class, see how to read and then wirte the content, how to convert the content to the vector.(use the iterator) 
+
+18. Goal: review the function and the library about the thread and the mutex and the autoic. And then, test them!
+
+19. Goal: make clear the two function: std::getline() and the std::istream::getline()
+
+20. Goal: review the c++'s function as the pointer to pass the funcion, and what you should do if there is the parameter that is the reference passed to the function. You have to wrap it.
+
+21. Goal: slove the problem that how to get the dir's file list in the c++, and then store the files in the vector.
+
+22. Goal: make clear the difference betweent the cout and the cerr; Why the cerr occures, it can continues to execuate next instruction.
+
+23. Goal: Why can not use the boost library, it will make the wrong, neither use the -lboost_system nor the cmake. Try to solve the problem.
+
+24. Goal: make clear that what is the random seed, and why is necessary?
+
+25. Goal: make clear the function: printf, fprintf, sprintf in the c/c++, and test the exit(), with the macro: EXIT_SUCCESS, and the EXIT_FAILURE.
+
+26. Goal: the function that need to be sloved: atoi(), ... make the conclusion: string -> number, char -> number. And the nubmer -> char, number -> string. 
+
+27. Goal: For the: char *str = "hello, the world"; why can not use the str[1] to change the value, it will make the error! Maybe it is the constant string!
+
+28. Goal: make clear the usage of the enum type of the c/c++; and the difference between the using and the typedef.
+
+29. Goal: for the loop, for example the while, or the for. figure out the relationship between the pointer or the other condition about loop. Where the pointer is? The pointer as the condition? How to stop the loop?
+
+30. Goal: make claer the difference between the allocate the memory function;->malloc, calloc, realloc, specially the calloc with the malloc, why not the calloc's parameter has to specify the elements size;
+

@@ -1,0 +1,21 @@
+29. Goal: for the loop, for example the while, or the for. figure out the relationship between the pointer or the other condition about loop. Where the pointer is? The pointer as the condition? How to stop the loop?
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

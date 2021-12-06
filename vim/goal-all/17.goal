@@ -1,0 +1,21 @@
+17. Goal: the use of the :| to separate the vim's command, you can help :bar or the help |.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

@@ -1,0 +1,21 @@
+23. Goal: learn the vimdiff command, and that can use this command to compare the difference of the two files.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

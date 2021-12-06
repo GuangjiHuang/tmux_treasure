@@ -1,0 +1,21 @@
+4. Goal: make it clear that how to add the macro inside the CMakeLists.txt, it seems to use the add_definition function.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

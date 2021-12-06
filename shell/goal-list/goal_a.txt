@@ -13,3 +13,27 @@
 
 7. Goal: figure out the difference betweent the interactive shell and the none interactive shell! Why the none interactive shell can not use the alias you set?
 
+8. Goal: renew the path script that changing the case matching to match more path!
+
+9. Goal: learn more about the details of the command <wc -...>. It is very important!
+
+10. Goal: make a deep understand of the apt tool. aptitude.
+
+11. Goal: make the conclusion of the wildcard of the shall/bash. Such as the *, ?, [], "", '' $()and the other. Comparing the extending file name wildcard with it.<important>
+
+12. Goal: understand the shell expansion, read the bash.pdf page:(28).
+
+13. Goal: use the grep no match the expression, how to achieve?
+
+14. Goal: figure out how to list the file and then sort by the size and the time that has been changed! Important thing  
+
+15. Goal: test the symbolic link of the linux, and then set up the link to the data and the parameters of the module.
+
+16. Goal: read the documentation of the readline, and then set the .inputrc to make your input more convinent.
+
+17. Goal: make clear the shell command: c++filt, and add the nm command to see the function and the symbol.
+
+18. Goal: about the process, some concept: fork, the child process; and some commands: ps, pgrep(to find the pid based on the process name);
+
+19. Goal: find the command to compare the two files difference.
+

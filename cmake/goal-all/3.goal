@@ -1,0 +1,26 @@
+3. Goal: make the conclusion of the soem path:[CMAKE_SYSTEM_PREFIX_PATH, cmake_include_path, cmake_library_path, cmake_program_path, cmake_ignore_path] and so on!
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 1
+(1) how to use the string == [the regualar expression], see the book to find the answer!
+
+<<q
+
+>>c
+-> conclusion: 1
+(1) pay attention to that: CMAKE_PREFIX_PATH just will add the appropiate subdirectories(like bin, lib, or include) as the specified in its own documnetation. So, you kown how to do!
+<pleaset reference to the book "linux shell", page 133.>
+
+<<c

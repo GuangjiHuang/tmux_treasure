@@ -1,0 +1,16 @@
+
+1. Goal: mark the data set again, use the other way to do that, the new data set!
+
+2. Goal: 搭好代码运行的环境，将代码跑起来。
+
+3. Goal: review the 形态学处理的相关知识，在python和c++编程语言下进行实现。 
+
+4. Goal: test the image of the elevator about the 平均背景法和帧间差分法，reference to the wuqichao's paper, page 29.
+
+5. Goal: understand the 高斯混合模型的原理，并且使用代码实现看一下具体的效果如何。reference to the
+<https://zhuanlan.zhihu.com/p/30483076>
+
+6. Goal: figure out the: hog/harr/lsp + adboost/svm to achieve the object detection of the project!
+
+7. Goal: learn how to use the coco data, try to test and then see the data! Let us go. Give you just one hour!
+

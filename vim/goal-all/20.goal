@@ -1,0 +1,23 @@
+20. Goal: learn how to assign the comand's ouptut to the variable. just lile the shell's $(command); use the command: redir to achieve;
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 1
+(1) where do you want to redirect: var, register, file and so on!
+
+<<c

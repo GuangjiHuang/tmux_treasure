@@ -1,1 +1,5 @@
 
+17. Goal: review the ifstream class, see how to read and then wirte the content, how to convert the content to the vector.(use the iterator) 
+
+18. Goal: review the function and the library about the thread and the mutex and the autoic. And then, test them!
+

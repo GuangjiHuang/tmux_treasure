@@ -1,0 +1,21 @@
+24. Goal: try to achieve the function that, when you inside the function, quickly jump to the function name. Try to read the documentation about the function search. 
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

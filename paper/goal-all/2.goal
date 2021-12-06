@@ -20,7 +20,7 @@ read the paper!
 <<a
 
 >>q
--> questions: 4
+-> questions: 5
 (1) What is the codebook model?
 
 (2) The difference between the "serious" and the "sever".
@@ -28,6 +28,8 @@ read the paper!
 (3) what happens the source iamge -> the network input image?
 
 (4) how to use the KNN to the image deal, what is the thought?
+
+(5) what is the KD tree algorithm? read the paper and the article to solve it!
 
 <<q
 

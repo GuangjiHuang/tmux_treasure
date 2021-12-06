@@ -1,0 +1,21 @@
+16. Goal: make clear the keycode, you can :help keycode, and the difference between the terminal key code.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>t
+-> actions: 0
+<<t
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

@@ -1,0 +1,21 @@
+23. Goal: Why can not use the boost library, it will make the wrong, neither use the -lboost_system nor the cmake. Try to solve the problem.
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

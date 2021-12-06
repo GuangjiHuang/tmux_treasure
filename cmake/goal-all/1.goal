@@ -1,0 +1,21 @@
+1. Goal: read the document to understand the some xx_PATH, such as the module_find_path, module_prefix_path, and so on! What is more, read the documentation of the find_package!
+
+>>p
+-> progress: (0/10)
+<<p
+
+>>t
+-> tasks: 0
+<<t
+
+>>a
+-> actions: 0
+<<a
+
+>>q
+-> questions: 0
+<<q
+
+>>c
+-> conclusion: 0
+<<c

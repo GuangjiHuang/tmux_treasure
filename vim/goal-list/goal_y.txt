@@ -1,1 +1,3 @@
 
+13. Goal: to slove the confict that when you open the CMakeLists.txt, the ft is the fmtxt. change the .vimrc.
+

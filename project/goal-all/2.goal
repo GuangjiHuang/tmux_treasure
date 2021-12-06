@@ -5,20 +5,35 @@
 <<p
 
 >>t
--> tasks: 2
+-> tasks: 3
 (1) build all the environment inside the xiaomi laptop.
 
 (2) then run the code!
+(3) test the code, let the Qt code run inside the clion or the terminal!
+
 <<t
 
 >>a
--> actions: 0
+-> actions: 2
+(1) 2021/10/08 20:57:14 - 22:32:37
+finish the task 3. That is very important!
+
+(2) 2021/10/08 22:33:14 - 14:54:25
+see the project's code to look the use of the Qt's module?
+
 <<a
 
 >>q
--> questions: 0
+-> questions: 2
+(1) there is the situation: I install the app not in the /usr/local/xx/ dir, there are the cmake file inise the library dirctory, how can I set in the CMakeLists.txt to find the lib. (Qt5)
+
+(2) how to copy and paste the content to the unbuntu's clipboard, there is no /dev/clipboard.So what?
+<reference to the wesit: https://www.11meigui.com/2020/shell-copy-paste.html>
+
 <<q
 
 >>c
--> conclusion: 0
+-> conclusion: 1
+(1) remember the camke variables: <Moudle_name>_DIR, CMAKE_MODULE_PATH
+
 <<c

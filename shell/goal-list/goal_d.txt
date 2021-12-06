@@ -3,3 +3,5 @@
 
 5. Goal: solve the problem that copy the tmux's content, set the bling key and read the document of the vi mode of the tmux.
 
+3. Goal: improve the tmux-manager.sh.
+

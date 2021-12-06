@@ -1,0 +1,23 @@
+
+1. Goal: read the document to understand the some xx_PATH, such as the module_find_path, module_prefix_path, and so on! What is more, read the documentation of the find_package!
+
+2. Goal: make the conclusion of the camke's [find_package(), find_program(), find_library(), find_file(), and the find_path()] what is the difference between them!
+
+3. Goal: make the conclusion of the soem path:[CMAKE_SYSTEM_PREFIX_PATH, cmake_include_path, cmake_library_path, cmake_program_path, cmake_ignore_path] and so on!
+
+4. Goal: make it clear that how to add the macro inside the CMakeLists.txt, it seems to use the add_definition function.
+
+5. Goal: the datatype of the cmake, for example the list, how to this using in the while loop, and the list operation. 
+
+6. Goal: how to set the cache variable.
+
+7. Goal: the script command: get_filename_component. To deal with the path!
+
+8. Goal: what are the function of the command "option" the description, how to show the description?
+
+9. Goal: make the deep understanding of the var: CMAKE_MOUDULE_PATH. What is the relationship with the xxx.cmake?
+
+10. Goal: cmake's include command should be know!
+
+11. Goal: target_link_xxx's public and the private, the difference?
+

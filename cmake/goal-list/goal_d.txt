@@ -1,0 +1,5 @@
+
+1. Goal: read the document to understand the some xx_PATH, such as the module_find_path, module_prefix_path, and so on! What is more, read the documentation of the find_package!
+
+5. Goal: the datatype of the cmake, for exampel the list, how to this using in the while loop, and the list operation. 
+
